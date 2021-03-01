@@ -16,10 +16,10 @@ import os
 from sklearn import tree
 
 # Load the Train data
-df = pd.read_csv("Data Train_HumTemp T8 Rev_00.csv")
+df = pd.read_csv("train.csv")
 
 # Load the Test data
-df_test = pd.read_csv("Data Test_HumTemp T8 Rev_00.csv").fillna(0)
+df_test = pd.read_csv("test.csv").fillna(0)
 
 X_train = np.array(df.drop(["result_name"], axis=1))
 y_train = np.array(df["result_name"])
