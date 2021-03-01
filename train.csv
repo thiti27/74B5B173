@@ -1,0 +1,90 @@
+T8 Room_Hum,T8 Room_Temp,T8 Dew_Temp,T8 Duct_Hum,T8 AHU Status,T8 OHU Status,result_name
+49.30647659,22.77714157,12.00732422,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.30647659,22.77714157,12.00732422,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.30647659,22.77714157,12.00732422,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.30647659,22.77714157,12.00732422,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.30647659,22.77714157,12.00732422,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.30647659,22.77714157,12.00732422,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.40871429,22.59403419,11.89288139,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.40871429,22.59403419,11.89288139,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.40871429,22.59403419,11.89288139,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.40871429,22.59403419,11.89288139,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.40871429,22.59403419,11.89288139,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.40871429,22.59403419,11.89288139,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+50.01296997,22.67795753,12.09887886,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+50.01296997,22.67795753,12.09887886,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+50.01296997,22.67795753,12.09887886,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+50.01296997,22.67795753,12.09887886,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+50.01296997,22.67795753,12.09887886,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+50.01296997,22.67795753,12.09887886,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.83901596,22.5497818,12.07598972,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+49.30647659,22.77714157,12.00732422,0,0,0,T8 Air condition System stop
+49.30647659,22.77714157,12.00732422,0,0,0,T8 Air condition System stop
+49.30647659,22.77714157,12.00732422,0,0,0,T8 Air condition System stop
+49.30647659,22.77714157,12.00732422,0,0,0,T8 Air condition System stop
+49.30647659,22.77714157,12.00732422,0,0,0,T8 Air condition System stop
+49.30647659,22.77714157,12.00732422,0,0,0,T8 Air condition System stop
+49.40871429,22.59403419,11.89288139,0,0,0,T8 Air condition System stop
+49.40871429,22.59403419,11.89288139,0,0,0,T8 Air condition System stop
+49.40871429,22.59403419,11.89288139,0,0,0,T8 Air condition System stop
+49.40871429,22.59403419,11.89288139,0,0,0,T8 Air condition System stop
+49.40871429,22.59403419,11.89288139,0,0,0,T8 Air condition System stop
+49.40871429,22.59403419,11.89288139,0,0,0,T8 Air condition System stop
+50.01296997,22.67795753,12.09887886,0,0,0,T8 Air condition System stop
+50.01296997,22.67795753,12.09887886,0,0,0,T8 Air condition System stop
+50.01296997,22.67795753,12.09887886,0,0,0,T8 Air condition System stop
+50.01296997,22.67795753,12.09887886,0,0,0,T8 Air condition System stop
+50.01296997,22.67795753,12.09887886,0,0,0,T8 Air condition System stop
+50.01296997,22.67795753,12.09887886,0,0,0,T8 Air condition System stop
+49.83901596,22.5497818,12.07598972,0,0,0,T8 Air condition System stop
+49.83901596,22.5497818,12.07598972,0,1,1,"T8 Air condition System data lose ""T8 Duct_Hum"""
+52.44068146,22.61387062,12.19501019,62.75730515,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.31509781,23.42412376,12.12329292,54.89704895,1,1,T8 Air condition system normal
+51.41985321,22.72526169,12.00732422,54.65900803,1,1,T8 Air condition system normal
+51.41985321,22.72526169,12.00732422,54.65900803,1,1,T8 Air condition system normal
+51.41985321,22.72526169,12.00732422,54.65900803,1,1,T8 Air condition system normal
+51.41985321,22.72526169,12.00732422,54.65900803,1,1,T8 Air condition system normal
+49.98092651,22.9205761,11.96002102,54.70173264,1,1,T8 Air condition system normal
+49.98092651,22.9205761,11.96002102,54.70173264,1,1,T8 Air condition system normal
+49.98092651,22.9205761,11.96002102,54.70173264,1,1,T8 Air condition system normal
+47.42656708,22.9205761,11.96002102,54.70173264,1,1,T8 Air condition system normal
+47.42656708,22.9205761,11.96002102,54.70173264,1,1,T8 Air condition system normal
+47.42656708,22.9205761,11.96002102,54.70173264,1,1,T8 Air condition system normal
+49.0592804,22.96025085,12.04394627,54.57355499,1,1,T8 Air condition system normal
+49.0592804,22.96025085,12.04394627,54.57355499,1,1,T8 Air condition system normal
+49.0592804,22.96025085,12.04394627,54.57355499,1,1,T8 Air condition system normal
+49.0592804,22.96025085,12.04394627,54.57355499,1,1,T8 Air condition system normal
+49.0592804,22.96025085,12.04394627,54.57355499,1,1,T8 Air condition system normal
+49.0592804,22.96025085,12.04394627,54.57355499,1,1,T8 Air condition system normal
+48.63355637,23.37682152,11.82574177,54.42401886,1,1,T8 Air condition system normal
+50.17624283,22.65812111,12.0958271,54.08221436,1,1,T8 Air condition system normal
+50.49820709,22.59861183,12.14312935,54.23480606,1,1,T8 Air condition system normal
+50.49820709,22.59861183,12.14312935,54.23480606,1,1,T8 Air condition system normal
+50.49820709,22.59861183,12.14312935,54.23480606,1,1,T8 Air condition system normal
+50.80796432,22.69779587,12.16296673,54.89704895,1,1,T8 Air condition system normal
+49.13100052,23.3051033,11.95239162,54.52777863,1,1,T8 Air condition system normal
+50.63706589,22.74509811,12.05920506,54.52472687,1,1,T8 Air condition system normal
+49.06385803,23.03959656,11.93713284,54.7261467,1,1,T8 Air condition system normal
+49.06385803,23.03959656,11.93713284,54.7261467,1,1,T8 Air condition system normal
+48.41230011,23.54314423,12.00427246,54.70173264,1,1,T8 Air condition system normal
+48.41230011,23.54314423,12.00427246,54.70173264,1,1,T8 Air condition system normal
+47.50591278,23.50347137,11.96459866,54.61322784,1,1,T8 Air condition system normal
+50.85984421,23.4363308,11.95696926,89.11082458,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.85984421,23.4363308,11.95696926,90.74658966,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.85984421,23.4363308,11.95696926,90.74658966,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.85984421,23.4363308,11.95696926,90.74658966,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.85984421,23.4363308,11.95696926,90.74658966,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.43412018,22.63828468,12.07141209,90.74964142,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.43412018,22.63828468,12.07141209,90.74964142,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.43412018,22.63828468,12.07141209,90.74964142,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.43412018,22.63828468,12.07141209,90.74964142,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.43412018,22.63828468,12.07141209,90.74964142,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+50.43412018,22.63828468,12.07141209,90.74964142,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+49.15846634,23.03501892,11.99664307,90.75575256,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+49.15846634,23.03501892,11.99664307,90.75575256,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+49.15846634,23.03501892,11.99664307,90.75575256,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+49.15846634,23.03501892,11.99664307,90.75575256,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+49.15846634,23.03501892,11.99664307,90.75575256,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+49.15846634,23.03501892,11.99664307,90.75575256,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+48.85633469,23.20134354,12.03936863,90.76185608,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
+48.85633469,23.20134354,12.03936863,90.76185608,1,1,"T8 Air condition system warning ""Duct_Hum too high"""
